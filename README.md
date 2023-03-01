@@ -1,11 +1,11 @@
-About koopa-viz
-===============
+About koopa-viz-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/koopa-viz-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/bbquercus/koopa-viz
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/koopa-viz-feedstock/blob/main/LICENSE.txt)
 
 Summary: Vizualization plugin for koopa image analysis
 
